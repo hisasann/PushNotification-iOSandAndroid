@@ -1,4 +1,4 @@
 PushNotification-iOSandAndroid
 ==============================
 
-iOSとAndroidでのPush通知周りをメモ
+Push通知まわりのサーバーサイド、アプリサイドをまとめたよ。
